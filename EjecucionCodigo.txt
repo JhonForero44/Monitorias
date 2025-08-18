@@ -1,0 +1,5 @@
+# Proceso para compilar el archivo
+g++ hola.cpp -o hola
+
+#Ejecutar el programa para visualuzar el resultado
+./hola
